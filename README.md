@@ -1,3 +1,7 @@
+## Preview
+![image](https://github.com/andy-austin/react-counter/assets/79148187/fbd46faa-3d17-4270-9023-fa7ff32d5fa8)
+
+
 ## Question & Answers
 
 **Why do we use Keys in ReactJS lists?**
