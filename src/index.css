@@ -1,0 +1,26 @@
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    justify-content: center;
+}
+
+.wrapper-item {
+    border: 1px solid red;
+    padding: 20px;
+    width: 200px;
+    border-radius: 4px;
+}
+
+
+.wrapper-item  p {
+    text-transform: uppercase;
+    display: inline;
+}
+
+
+.wrapper-item  button {
+    cursor: pointer;
+    padding: 10px;
+    margin-right: 10px;
+}
